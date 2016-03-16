@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web_services_apoiz:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_services_apoiz_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web_services_apoiz/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web_services_apoiz" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
